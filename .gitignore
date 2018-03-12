@@ -1,0 +1,8 @@
+node_modules
+*.swp
+*js.swp
+*~
+public/dist/
+.env.test
+.env.development
+*.log

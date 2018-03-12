@@ -1,0 +1,9 @@
+.navbar-right { margin-right: 0 !important; }
+
+.log {
+  margin: 0.5rem 1rem 0 0;
+}
+
+.is-active {
+  font-weight: bold !important;
+}
